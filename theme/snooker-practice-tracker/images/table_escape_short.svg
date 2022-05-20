@@ -1,0 +1,12 @@
+<svg width="284" height="142" viewBox="0 0 284 142" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M271 6H13C9.13401 6 6 9.13401 6 13V129C6 132.866 9.13401 136 13 136H271C274.866 136 278 132.866 278 129V13C278 9.13401 274.866 6 271 6ZM13 0C5.8203 0 0 5.8203 0 13V129C0 136.18 5.8203 142 13 142H271C278.18 142 284 136.18 284 129V13C284 5.8203 278.18 0 271 0H13Z" fill="#CFCFCF"/>
+<path d="M223 0L223 142M223 93C235.15 93 245 83.1503 245 71C245 58.8497 235.15 49 223 49" stroke="#CFCFCF" stroke-width="2"/>
+<circle cx="141.625" cy="70.625" r="2.625" fill="#0000FF"/>
+<circle cx="70.625" cy="70.625" r="2.625" fill="#FF88FF"/>
+<circle cx="222.625" cy="70.625" r="2.625" fill="#FF8800"/>
+<circle cx="222.625" cy="49.625" r="2.625" fill="#CBC530"/>
+<circle cx="222.625" cy="92.625" r="2.625" fill="#009900"/>
+<circle cx="34.625" cy="70.625" r="2.625" fill="black"/>
+<circle cx="102.625" cy="70.625" r="2.625" fill="#E4E4E4"/>
+<circle cx="52.625" cy="70.625" r="2.625" transform="rotate(90 52.625 70.625)" fill="#FF0000"/>
+</svg>
