@@ -5,23 +5,58 @@
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
 	<url>
-	  <loc>http://unicorniomacau.com/</loc>
-	  <lastmod>2022-05-23T08:31:28+00:00</lastmod>
-	</url>
+	  <loc>https://unicorniomacau.com/</loc>
+    <lastmod>2022-05-25T00:00:00+00:00</lastmod>
+  </url>
 	
 	<url>
-	  <loc>http://unicorniomacau.com/index.html</loc>
-	  <lastmod>2022-05-23T08:31:28+00:00</lastmod>
-	</url>
-	
+	  <loc>https://unicorniomacau.com/index.html</loc>
+    <lastmod>2022-05-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://unicorniomacau.com/snooker-practice-tracker/</loc>
+    <lastmod>2022-05-23T09:22:38+00:00</lastmod>
+  </url>
+  
 	<url>
-	  <loc>http://unicorniomacau.com/snooker-practice-tracker/index.html</loc>
+	  <loc>https://unicorniomacau.com/snooker-practice-tracker/index.html</loc>
 	  <lastmod>2022-05-23T09:22:38+00:00</lastmod>
 	</url>
 	
 	<url>
-	  <loc>http://unicorniomacau.com/snooker-practice-tracker/drills.html</loc>
+	  <loc>https://unicorniomacau.com/snooker-practice-tracker/drills.html</loc>
 	  <lastmod>2022-05-23T09:22:38+00:00</lastmod>
 	</url>
+  
+  <url>
+    <loc>https://unicorniomacau.com/nft-price/</loc>
+    <lastmod>2022-05-25T00:00:00+00:00</lastmod>
+  </url>
+
+  <url>
+    <loc>https://unicorniomacau.com/nft-price/index.html</loc>
+    <lastmod>2022-05-25T00:00:00+00:00</lastmod>
+  </url>
+
+  <url>
+    <loc>https://unicorniomacau.com/plank-timer-dr-simplicity/</loc>
+    <lastmod>2022-05-25T00:00:00+00:00</lastmod>
+  </url>
+
+  <url>
+    <loc>https://unicorniomacau.com/plank-timer-dr-simplicity/index.html</loc>
+    <lastmod>2022-05-25T00:00:00+00:00</lastmod>
+  </url>
+
+  <url>
+    <loc>https://unicorniomacau.com/notes-tango-tools/</loc>
+    <lastmod>2022-05-25T00:00:00+00:00</lastmod>
+  </url>
+
+  <url>
+    <loc>https://unicorniomacau.com/notes-tango-tools/index.html</loc>
+    <lastmod>2022-05-25T00:00:00+00:00</lastmod>
+  </url>
 
 </urlset>
