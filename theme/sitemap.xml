@@ -4,9 +4,9 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
-	<url>
-	  <loc>https://unicorniomacau.com/</loc>
-    <lastmod>2022-06-07T00:00:00+00:00</lastmod>
+  <url>
+    <loc>https://unicorniomacau.com/</loc>
+    <lastmod>2022-08-22T00:00:00+00:00</lastmod>
   </url>
 	
   <url>
@@ -14,10 +14,10 @@
     <lastmod>2022-05-26T09:22:38+00:00</lastmod>
   </url>
 	
-	<url>
-	  <loc>https://unicorniomacau.com/snooker-practice-tracker/drills.html</loc>
-	  <lastmod>2022-05-26T09:22:38+00:00</lastmod>
-	</url>
+  <url>
+    <loc>https://unicorniomacau.com/snooker-practice-tracker/drills.html</loc>
+    <lastmod>2022-05-26T09:22:38+00:00</lastmod>
+  </url>
   
   <url>
     <loc>https://unicorniomacau.com/nft-price/</loc>
@@ -32,6 +32,11 @@
   <url>
     <loc>https://unicorniomacau.com/notes-tango-tools/</loc>
     <lastmod>2022-06-07T00:00:00+00:00</lastmod>
+  </url>
+
+  <url>
+    <loc>https://unicorniomacau.com/seated-exercise-in-vehicles/</loc>
+    <lastmod>2022-08-22T00:00:00+00:00</lastmod>
   </url>
 
 </urlset>
