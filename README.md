@@ -8,4 +8,4 @@ This website is built for portfolio display purpose of below projects:
   - landing page: https://unicorniomacau.com/snooker-practice-tracker
   - link: https://play.google.com/store/apps/details?id=com.unicornio.app.routini
 
-Special attributes to [Themefisher](https://themefisher.com) by whose project template unicornio macau website is powered.
+Special attributes to [Themefisher](https://themefisher.com) by whose project template unicornio macau website is powered. See the repo [here](https://github.com/themefisher/small-apps)
