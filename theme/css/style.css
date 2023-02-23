@@ -356,6 +356,22 @@ button:focus,
   box-shadow: none;
 }
 
+.btn-main-tiny {
+  padding: 12px 28px 12px 28px;
+  border-radius: 4px;
+  background: #2e7eed;
+  color: #fff;
+  outline: none;
+  font-size: 12px;
+}
+.btn-main-tiny:hover {
+  color: #fff;
+}
+.btn-main-tiny:focus {
+  color: #fff;
+  box-shadow: none;
+}
+
 .btn-white {
   background: white;
   color: #2e7eed;
@@ -865,6 +881,22 @@ button:focus,
 }
 .service .service-box .service-item p {
   font-size: 14px;
+}
+
+.fixed_height_tiny {
+  height: 200px;
+}
+
+.fixed_height_small {
+  height: 320px;
+}
+
+.fixed_height_medium {
+  height: 400px;
+}
+
+.fixed_height_large {
+  height: 500px;
 }
 
 .feature .feature-content h2,
@@ -1925,10 +1957,7 @@ hr {
 }
 
 .margin-medium {
-  margin-top: 24px;
-  margin-bottom: 24px;
-  margin-left: 24px;
-  margin-right: 24px;
+  margin: 24px;
 }
 
 .margin-tb-medium {
